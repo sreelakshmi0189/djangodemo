@@ -1,0 +1,39 @@
+
+body{
+font-family:'Slabo 27px', serif;
+background-color:#eb8898;
+}
+
+.navbar{
+background-color: ;
+font-weight:bold;
+
+}
+
+.navbar-brand {
+color: #050505 !important;
+}
+
+
+
+.footer{
+height:40px;
+width:100%;
+background-color: #f08d9b;
+    position: fixed;
+    text-align: center;
+   bottom:0%;
+}
+.card{
+display:inline-block;
+margin-top: 50px;
+margin-left: 150px;
+width:300px;
+box-shadow: 0 0px 8px #211f1f;
+
+}
+
+.card-text{
+height:150px;
+}
+
